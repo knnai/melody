@@ -86,12 +86,16 @@ body {
 	color: #635854;
 }
 
-.home path {
+.home-image path {
 	opacity: 0;
 	cursor: pointer;
 }
 
-.home path:hover {
+.home-image path:hover {
+	opacity: 1;
+}
+
+.home-image path.current-floor {
 	opacity: 1;
 }
 
