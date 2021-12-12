@@ -1,0 +1,26 @@
+<svg width="734" height="640" viewBox="0 0 734 640" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="734" height="640" fill="url(#pattern0)"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1_86" transform="translate(-0.00408719) scale(0.0013624 0.0015625)"/>
+</pattern>
+<image id="image0_1_86" width="740" height="640" xlink:href="img/home.png"/>
+</defs>
+<path d="M219 529.333L443.607 538.222L514 523V547.111L444.319 569L219 556.778V529.333Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M219 529.273V502L443.098 505.6L514 502V523.818L443.505 538L219 529.273Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M219 504V479H443.81H514V502L444.828 509L219 504Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M219 480V454.739L444.894 451L514 457.77V480H444.588" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M219 454.656V425.678L444.319 422L514 434.26V458L443.81 450.532L219 454.656Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M219.01 425.756V402.217L442.273 390L514 412.844V434L442.273 421.783L219.01 425.756Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M219.01 403.724V377.862L443.485 361L514 390.586V413.5L442.98 389.552L219.01 403.724Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M219.01 378.435V352.257L443.788 331L514 369.325V391L441.263 360.948L219.01 378.435Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M219.01 352.664V328.189L444.294 303L514 346.5V370L443.99 331.248L219.01 352.664Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M219.01 328.5V302.82L443.788 274L514 325.213V346L442.98 303.523L219.01 328.5Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M219 303V279L442.817 246L514 305.3V325L443.522 274.3L219 303Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M219 279.5V253.412L443.241 218L514 282.753V304L444.356 247.5L219 279.5Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M219.01 253.692V228.418L443.586 186.5L512.99 261.073V282L443.283 218.5L219.01 253.692Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M219.01 228.5V202.259L442.071 158L512.99 238.01V261L443.283 186.763L219.01 228.5Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M219 203V178L442.034 130L513 215V238L441.325 158.7L219 203Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M219.01 177.67V152.452L442.576 100L512.99 193.103V216L442.576 131.5L219.01 177.67Z" fill="#3595F6" fill-opacity="0.75"/>
+<path d="M219.01 152.576V126.301L443.283 69L512.99 171.778V193L442.98 100.328L219.01 152.576Z" fill="#3595F6" fill-opacity="0.75"/>
+</svg>
